@@ -1,5 +1,8 @@
 _repo: De-Sobremesa-cronicas-Tercera-Parte-de-5_56770
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56770-h/images/cover.jpg
 creator:
   author:
     agent_name: Benavente, Jacinto
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33140
     wikipedia: http://en.wikipedia.org/wiki/Jacinto_Benavente
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56770#De-Sobremesa-cronicas-Tercera-Parte-de-5
 gutenberg_issued: '2018-03-18'
 gutenberg_type: Text
 identifiers:
